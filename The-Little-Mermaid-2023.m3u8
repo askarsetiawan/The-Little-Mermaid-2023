@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Indonesia",DEFAULT=YES,AUTOSELECT=YES,URI="https://raw.githubusercontent.com/askarsetiawan/The-Little-Mermaid-2023/main/The-Little-Mermaid-2023.vtt"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Indonesia",DEFAULT=YES,URI="https://raw.githubusercontent.com/askarsetiawan/The-Little-Mermaid-2023/main/The-Little-Mermaid-2023.vtt"
 #EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
 https://eerht.artdesigncdn.net/_v10/e4c725a6c72111e7f044a77db8e225d61e7164866279f983fc86eec07731ecafadf18b48f20c09cb3f3fe9af49e016da551ced10021bf933a96c23ca8a5c326dcf5c525c6b59f4147bcf7957be08a7b7545e247d5c0ccb3edf8aa7c013a35620a23bc5c4a60abe9bc8988cd82886857fdf9d5841a7a6382806d45bad3241fc13/1080/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
